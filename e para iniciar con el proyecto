@@ -1,0 +1,80 @@
+[33mcommit 137784236433973fa0b81029293c5f95a3e229e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Mon May 26 21:10:05 2025 -0600
+
+    fixing error
+
+[33mcommit 3711c0a83ed568eb187228ac496bfdb7f567d71f[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 57fcb11 c4498b8
+Author: Isaac José Murillo Muñoz <103013971+Imurillo07@users.noreply.github.com>
+Date:   Mon May 26 20:47:02 2025 -0600
+
+    Merge pull request #1 from Imurillo07/develop
+    
+    Develop
+
+[33mcommit c4498b86ec37eb5a14570508d152532c3f72e749[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Mon May 26 18:57:24 2025 -0600
+
+    created another inggest folder witha file nameds route where we aded the sync api we did in the commit before
+
+[33mcommit 639e265a30aac1a4fbb00c98a0e08b4733884950[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Mon May 26 18:26:01 2025 -0600
+
+    created the inggest folder and created the inngest api that wil be connected to the clerk and database
+
+[33mcommit 94dd00c8b2021a258f1f33c14e30545e3310515e[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Tue May 6 19:30:20 2025 -0600
+
+    created the models file and setup a model for it
+
+[33mcommit 83333acbf5b94c88298d85134f91f9171d9a7616[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Tue May 6 19:22:01 2025 -0600
+
+    connectamos la base de datos a la pagina web
+
+[33mcommit 2cafc426cede51fe16bc1ee312de5a226c62ccf9[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Wed Apr 23 21:12:41 2025 -0600
+
+    añadimos el botton de home y products al dropdown con su respectivo icono para que este nos lleve a la pagina ya existente
+
+[33mcommit cb1e39af20973c46c653a15a0d7840e82e7b14fd[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Wed Apr 23 21:10:34 2025 -0600
+
+    añadimos el botton de my orders al dropdown con su respectivo icono para que este nos lleve a la pgina de my orders ya existente
+
+[33mcommit 1aea3a15676501c44abe26dc56aac50a826ec42b[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Wed Apr 23 21:07:58 2025 -0600
+
+    añadimos el botton de cart al dropdown con su respectivo icono para que este nos lleve al carrito ya existente
+
+[33mcommit 10a36172270e342506050c4cac9e2b01a6fb1ba7[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Wed Apr 23 20:55:53 2025 -0600
+
+    añadimos las opciones de ver cuenta y signout
+
+[33mcommit a7b06553544a2849b4de8d16971e5f350ecfcd10[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Wed Apr 23 20:45:33 2025 -0600
+
+    añadimos el action del popup de clerk para que permita el sign in de los usuarios
+
+[33mcommit 93cccc88108122a9c23e3fd7991e51a5aaabdc5d[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Wed Apr 23 20:41:16 2025 -0600
+
+    añadimos el system de login el cual nos va a ayudar a manejar a los usuarios con clerk.com
+
+[33mcommit 57fcb113a3393f342980d278a1893f4773762a63[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Isaac Murillo <isaacmurillo07@gmail.com>
+Date:   Wed Apr 23 20:12:43 2025 -0600
+
+    base para iniciar con el proyecto
